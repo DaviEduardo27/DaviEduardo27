@@ -8,11 +8,9 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
          
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 <br>
 </h1>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-
 <div>
 <h2 align="center"> 🐼 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐼 </h2>
 
