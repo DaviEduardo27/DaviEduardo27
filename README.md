@@ -9,12 +9,11 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
          
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+<img src="https://github.com/DaviEduardo27/DaviEduardo27/blob/main/tumblr_cee77c64acbb399e200f69d6bf3998fa_0fa0769c_540.webp" align="right">
 <br>
 </h1>
 <div>
 <h2 align="center"> 🐼 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐼 </h2>
-
-<img src="https://github.com/DaviEduardo27/DaviEduardo27/blob/main/tumblr_cee77c64acbb399e200f69d6bf3998fa_0fa0769c_540.webp" align="right">
 <li>
 <b>I like/love:</b> anime, games, programming
  <b>
