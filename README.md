@@ -6,19 +6,14 @@
  ## - 🌱 I’m currently learning mobile development 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
-         
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
 
 <br>
 </h1>
 <div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 <h2 align="center"> 🐼 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐼 </h2>
  <img src="https://github.com/DaviEduardo27/DaviEduardo27/blob/main/tumblr_cee77c64acbb399e200f69d6bf3998fa_0fa0769c_540.webp" align="right">
-<li>
-<b>I like/love:</b> anime, games, programming
- <b>
-</li>
 <li>
 <b>Ser Game Designer sempre esteve nos meus planos — nunca foi uma decisão repentina. Desde cedo, sempre gostei de criar, escrever histórias e analisar mundos fictícios. Jogos sempre foram mais do que entretenimento para mim: são experiências, linguagens e formas de contar histórias.
 
