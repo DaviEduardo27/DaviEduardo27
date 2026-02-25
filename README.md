@@ -20,8 +20,8 @@ Game Designer in Training • IT Analyst • Systems & Narrative Architect
 
 ## 👋 I am Davi Eduardo (Kyter)
 
-🎮 **Game Designer em formação**, guiado por narrativa, atmosfera e design de sistemas  
-🧠 Analista de TI por profissão, **criador de mundos por vocação**
+🎮 **Game Designer em formação**
+🧠 Analista de TI por profissão
 
 ---
 
